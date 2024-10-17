@@ -10,8 +10,11 @@
 Tabel yang digunakan dalam sistem persuratan dosen adalah sebagai berikut.
 
 1. Tabel Permohonan Izin
+
 ![alt text](izin.jpeg)
+
 2. Tabel Surat Tugas
+
 ![alt text](tugas.jpeg)
 
 Penyelesaian:
