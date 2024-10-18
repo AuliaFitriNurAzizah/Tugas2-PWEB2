@@ -389,8 +389,15 @@ Polimorfisme melalui Method Overriding:
 Polimorfisme terjadi ketika sebuah kelas turunan meng-override metode dari kelas induk, yang memungkinkan metode tersebut untuk berperilaku berbeda tergantung pada kelas mana ia dipanggil.
 Dalam kasus ini, kelas suratSeminar mewarisi dari kelas suratTugas, dan ada metode tampilData() di dalam kelas suratSeminar yang digunakan sebagai polimorfisme.
 
+Output:
+![alt text](1.png)
 
+![alt text](2.png)
 
+![alt text](3.png)
 
+![alt text](4.png)
 
+![alt text](5.png)
 
+![alt text](6.png)
